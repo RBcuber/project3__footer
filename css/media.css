@@ -1,0 +1,109 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1400px) {
+	
+}
+@media only screen and (max-width : 1160px) {
+	
+}
+@media only screen and (max-width : 1107px) {
+	
+}
+@media only screen and (max-width : 1030px) {
+	
+}
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+	.footer__first{
+		flex-wrap: wrap;
+	}
+	.footer__text,
+	.footer__adress{
+		width: 350px;
+	}
+	.footer__help,
+	.footer__community,
+	.footer__about,
+	.footer__follow{
+		width: 50%;
+	}
+	.footer__about{
+		padding-bottom: 70px;
+	}
+}
+@media only screen and (max-width : 830px) {
+	
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.footer__help,
+	.footer__community,
+	.footer__about,
+	.footer__follow{
+		width: 100%;
+	}
+	.footer__text,
+	.footer__adress{
+		width: 250px;
+	}
+	.footer__help,
+	.footer__community,
+	.footer__about{
+		padding-bottom: 70px;
+	}
+	.footer{
+		padding-top: 50px;
+	}
+}
+@media only screen and (max-width : 659px) {
+
+}
+@media only screen and (max-width : 640px) {
+	
+}
+@media only screen and (max-width : 627px) {
+	
+}
+
+@media only screen and (max-width : 553px) {
+
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	
+}@media only screen and (max-width : 372px) {
+	
+}
+/* Custom, iPhone Retina */
+
+@media only screen and (max-width : 320px) {
+		
+}
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 769px) {
+	
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
